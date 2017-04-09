@@ -1,0 +1,45 @@
+.scheduling, .priotize-messaging{
+min-height:640px;
+margin-top: 16px;
+padding-top: 128px;
+}
+.file-sharing{
+min-height:720px;
+margin-top: 16px;
+
+}
+.group-messaging, .realtime-notifications{
+min-height:352px;
+margin-top: 16px;
+
+}
+
+.scheduling{
+	margin-right: 4px;
+background-color: rgba(00,99,99,0.1);
+
+}
+
+ .priotize-messaging{
+	margin-left:4px;
+    background-color: rgba(00,99,99,0.05);
+
+}
+.file-sharing{
+	margin-right: 4px;
+
+background-color: rgba(00,99,99,0.1);
+
+}
+
+ .group-messaging{
+	margin-left:4px;
+    background-color: rgba(00,99,99,0.05);
+
+}
+.realtime-notifications{
+	margin-right: 4px;
+
+background-color: rgba(00,99,99,0.1);
+
+}

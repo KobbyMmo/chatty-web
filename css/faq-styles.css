@@ -1,0 +1,27 @@
+.faq-content{
+    margin-top:120px;
+}
+
+.faq-title{
+    width:100%;
+    text-align: center;
+    font-weight: 100;
+    font-size: 2.5em;
+    color: #009999;
+    margin-bottom: 24px;
+}
+
+.question{
+color: #009999;
+font-size: 1.5em;
+font-weight: 100ww  ;
+}
+.answer{
+    color: #444444;
+    font-weight: 100;
+}
+.faq-item{
+    padding-left:20%;
+    padding-right:20%;
+    margin-bottom: 24px;
+}

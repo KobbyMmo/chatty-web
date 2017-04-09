@@ -1,0 +1,132 @@
+
+.home-phone-placeholder{
+	background-image: url("../images/home-phone.jpg");
+	     background-repeat: no-repeat;
+		      background-position: left; 
+			  background-size: contain;
+	width:100%;
+	height:480px;
+}
+
+.mini-home-about, .mini-home-feature{
+height:480px;
+margin-top: 56px;
+margin-bottom: 56px;
+}
+.mini-home-about{
+	margin-right: 4px;
+
+background-color: #009999;
+background-color: rgba(00,99,99,0.2);
+}
+
+.mini-home-feature{
+	margin-left:4px;
+	background-color: #009999;
+background-color: rgba(00,99,99,0.1);
+}
+
+.home-explore-features-ctn{
+margin: 0 auto;
+margin-top: 16px;
+margin-bottom:36px; 
+	max-width:240px;
+
+}
+.home-explore-features-btn{
+	font-size: 24px;
+
+color: #009999;
+font-weight: 100;
+
+}
+
+.left-item{
+	padding-left: 256px;
+	padding-top: 128px;
+}
+.right-item{
+	padding-top: 96px;
+}
+.core-values{
+	font-size: 36px;
+margin-bottom: -12px;
+font-weight: 100;
+}
+.description{
+	margin-top: 48px;
+}
+
+.data-charges{
+color: #ccc;
+font-size: .9em;
+margin-bottom: 36px;
+}
+.platform-section a{
+	color: #009072;
+	font-size: 1.2em;
+	text-decoration: none
+}
+.platform-icon{
+	margin-right: 16px;
+}
+.platform{
+	margin-bottom: 16px;
+}
+
+
+/*About the team*/
+.about{
+font-weight: 100;
+font-size: 2em;
+width: 100%;
+text-align: center;
+padding-top: 48px;
+}
+
+.about-us-text{
+	font-weight: 100;
+	text-align: center;
+	padding-top: 24px;
+	margin-left: 24px;
+	margin-right: 24px;
+}
+
+.team-image{
+	background: url("https://previews.123rf.com/images/blamb/blamb1407/blamb140700053/29608783-A-team-of-cartoon-business-people-meet-in-front-of-a-laptop-to-consult-on-a-problem--Stock-Vector.jpg");
+	  background-repeat: no-repeat;
+		      background-position: center; 
+			  background-size: cover;
+	max-width:200px;
+height: 200px;
+border-radius:150px;
+margin:0 auto;
+margin-top: 36px;
+}
+.feature{
+font-weight: 100;
+font-size: 2em;
+width: 100%;
+text-align: center;
+padding-top: 48px;
+}
+
+.feature-text{
+	font-weight: 100;
+	text-align: center;
+	padding-top: 24px;
+	margin-left: 24px;
+	margin-right: 24px;
+}
+
+.feature-image{
+	background: url("https://previews.123rf.com/images/blamb/blamb1407/blamb140700053/29608783-A-team-of-cartoon-business-people-meet-in-front-of-a-laptop-to-consult-on-a-problem--Stock-Vector.jpg");
+	  background-repeat: no-repeat;
+		      background-position: center; 
+			  background-size: cover;
+	max-width:200px;
+height: 200px;
+border-radius:150px;
+margin:0 auto;
+margin-top: 36px;
+}

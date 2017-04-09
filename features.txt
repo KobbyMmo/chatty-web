@@ -1,0 +1,19 @@
+Group messaging
+
+The group messaging feature in chatty allow people with common background and ideologies communicate and share common media on the group chat. Messages and media sent by any member of the group is seen by all members of the group.
+
+Prioritize messaging
+
+This is a new feature on chatty app that allows users to prioritize certain messages so that important information doesn’t get drowned during group chats.
+
+Schedules
+
+Scheduling feature in chatty application allows users to schedule a meeting at a particular place. Which will then become reserved for the entire period the meeting is scheduled to take. It comes in handy for class representatives who move around securing an empty class room for students.
+
+File sharing
+
+The app allows for file sharing including pictures, audio and video files.
+
+Personal and Group Notification
+
+Chatty also alert users of unread or new messages from both group and individual private chats.
