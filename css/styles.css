@@ -28,6 +28,17 @@ cursor: pointer;
 color: #009999;
 }
 
+.logofooter{
+	background-image: url("../images/logo.jpg");
+	     background-repeat: no-repeat;
+		      background-position: left; 
+			  background-size: contain;
+	width:32px;
+	height:32px;
+}
+
+
+
 
 
 
