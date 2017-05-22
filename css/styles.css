@@ -29,12 +29,12 @@ color: #009999;
 }
 
 .logofooter{
-	background-image: url("../images/logo.jpg");
+	background-image: url("../images/logo.png");
 	     background-repeat: no-repeat;
 		      background-position: left; 
 			  background-size: contain;
-	width:32px;
-	height:32px;
+	width:64px;
+	height:64px;
 }
 
 
